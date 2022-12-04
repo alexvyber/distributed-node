@@ -1,4 +1,4 @@
 module.exports = {
-  ENV: 'production',
+  ENV: "production",
   WIDGETS_PER_BATCH: 128
-};
+}

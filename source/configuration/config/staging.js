@@ -1,4 +1,4 @@
 module.exports = {
-  ENV: 'staging',
+  ENV: "staging",
   WIDGETS_PER_BATCH: 128
-};
+}
